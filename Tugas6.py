@@ -5,8 +5,8 @@ print("nilai dari x adalah : ", y)
 # aturan penamaan fariabel
 luas = 30 # bisa berupa kata 
 afrizan_zan = 100 # jika dua kata, digabung dg "_"
-Razorx = 10 # boleh gabung capital non-kapital
-Razorx = 3
+Kazorx = 10 # boleh gabung capital non-kapital
+kazorx = 3
 lenca88 = 10 # jika menggabungkan huruf dan angka, angkanya di akhir
 print("nilai dar Razor adalah : ", lenca88 )
 a = 4 # integer bilangan bulat
