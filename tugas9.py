@@ -1,30 +1,15 @@
-x = 24
-y = 88
+#latihan operasi aritmatika
 
-# Penjumlahan
-hasil = x + y
-print("nilai dari x + y = ", hasil)
+nilai = float(input("masukkan nilai suhu dalam celcius :"))
 
-# Pengurangan
-hasil = x - y
-print("hasil dari x - y = ", hasil)
+fahrenheit = (nilai * 9/5)+32
 
-# Pembagian 
-hasil = x / y
-print("hasil dari x / y = ", hasil)
+print("nilai dalam fahrenheit =",fahrenhei)
 
-# Perkalian
-hasil = x * y
-print("hasil dari x * y =", hasil)
+kelvin= nilai +273,151
 
-# Eksponen
-hasil = x ** y
-print("hasil dari x ** y = ", hasil)
+print("nilai dalam kelvin =",kelvin)
 
-# Modulo
-hasil = x % y
-print("hasil dari x % y = ", hasil)
+reamur = nilai*(5/4)+0
 
-# Floor division
-hasil = x // y
-print("hasil dari x // y = ", hasil)
+print("nilai dalam reamur=",reamur)
